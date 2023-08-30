@@ -17,7 +17,10 @@ locations:
       "6":
         database: ""
         schema: ""
-macros: {}
+macros:
+  Macro-1:
+    id: "1"
+    macroString: ""
 packages: {}
 projects: {}
 stepTypes:
